@@ -13,4 +13,4 @@ plot(x, y, xlab = "independent", ylab = "dependent")
 
 plot(x, y, xlab = "independent", ylab = "dependent", type = "l")
 
-plot(x, y2, xlab = "independent", ylab = "dependent", type = "l")
+plot(x, y2, xlab = "independent", ylab = "dependent", type = "l", col = "red")
