@@ -1,5 +1,6 @@
 #example r scripts
 #this makes a line
+#makes a parabola
 
 x <- -10:10
 b <- -2
