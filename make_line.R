@@ -9,8 +9,6 @@ a <- 100
 y <- b * x + a
 y2 <- b2*x^2 + b*x + a 
 
-plot(x, y, xlab = "independent", ylab = "dependent")
-
 plot(x, y, xlab = "independent", ylab = "dependent", type = "l")
 
-plot(x, y2, xlab = "independent", ylab = "dependent", type = "l", lty = 2)
+plot(x, y2, xlab = "independent", ylab = "dependent", type = "l", col = "red")
